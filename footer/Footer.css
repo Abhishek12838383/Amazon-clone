@@ -1,0 +1,11 @@
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: darkslategrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer h3{
+    color: white;
+}

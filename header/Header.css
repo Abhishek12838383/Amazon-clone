@@ -1,0 +1,50 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #243040;
+    height: 40px;
+}
+.first{
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+}
+.first h4{
+    font-size: 14px;
+    color: white;
+}
+.first span{
+    color: white;
+}
+.sec {
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+}
+.sec h4{
+    margin-left: 20px;
+    font-size: 12px;
+    color: lightgray;
+    font-weight: 300;
+}
+.thi{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+}
+.thi img{
+    height: 20px;
+    width: 20px;
+}
+.thi h4{
+    font-size: 12px;
+    color: lightgray;
+    font-weight: 300;
+}
+.thi h5{
+    font-size: 12px;
+    color: lightgray;
+    font-weight: 300;
+    margin-right: 50px;
+}
